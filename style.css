@@ -1,0 +1,27 @@
+h1{
+    color: #DFF6FF;
+    text-align: center;
+    font-size: 60px;
+    font-style: oblique;
+    font-family: 'lexend', sans-serif;
+}
+h2{
+    color: #DFF6FF;
+    text-align: center;
+    font-family: 'lexend', sans-serif;
+}
+body{
+    background-color: #000000;
+}
+p{
+    color: #FAEF5D
+    ;
+    text-align: justify;
+    font-size: x-large;
+    font-weight: 400;
+    font-family: lexend, sans-serif;
+}
+li{
+    color: #DFF6FF;
+    align-items: center;
+}
